@@ -24,3 +24,5 @@ nbdist/
 .nb-gradle/
 
 *.class
+/mvnw.cmd
+/mvnw
